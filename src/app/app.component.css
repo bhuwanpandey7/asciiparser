@@ -1,0 +1,10 @@
+.output {
+  word-wrap: break-word !important;
+  background-color: aliceblue;
+  font-family: inherit;
+}
+
+.input {
+  background-color: lightgrey;
+  font-family: inherit;
+}
